@@ -1,4 +1,4 @@
-# LABELS4Free  -- Recereation 
+# LABELS4Free
 I didn't want to spend $18 on an After Effects script... so I created my own. Labels4Free is an independent, open recreation of a label color panel.
 
 ### 🎬 FEATURES: 
