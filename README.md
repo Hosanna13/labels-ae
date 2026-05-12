@@ -1,5 +1,5 @@
 # LABELS4Free
-I didn't want to spend $18 on an After Effects script... so I created my own. Labels4Free is an independent, open recreation of a label color panel.
+I didn't want to spend **$18** on an After Effects script... so I created my own. **Labels4Free** is an independent, open recreation of a label color panel.
 
 ### 🎬 FEATURES: 
 - Can apply label colors to keyframes, project items, and more.
@@ -12,13 +12,13 @@ I didn't want to spend $18 on an After Effects script... so I created my own. La
 
 
 ### 🧑🏾‍💻 INSTALL: 
-- Mac: /Applications/Adobe After Effects <ver>/Scripts/ScriptUI Panels/
+- Mac: */Applications/Adobe After Effects <ver>/Scripts/ScriptUI Panels/*
   
-- Win: C:\Program Files\Adobe\Adobe After Effects <ver>\Support Files\Scripts\ScriptUI Panels\
+- Win: _C:\Program Files\Adobe\Adobe After Effects <ver>\Support Files\Scripts\ScriptUI Panels\_
 
 **OR**
-- AE: AE -> Script -> Install ScriptUI Panel -> labels.jsx 
-- Then: AE -> Window -> labels.jsx
+- AE: _AE -> Script -> Install ScriptUI Panel -> labels.jsx_
+- Then: _AE -> Window -> labels.jsx_
 
 
 `🚨 *Keyframe label colors **require** After Effects v22.6 or later. 🚨`
