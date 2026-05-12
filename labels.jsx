@@ -14,7 +14,7 @@
 //  INSTALL:
 //    Mac: /Applications/Adobe After Effects <ver>/Scripts/ScriptUI Panels/
 //    Win: C:\Program Files\Adobe\Adobe After Effects <ver>\Support Files\Scripts\ScriptUI Panels\
-//    Then: AE → Window → Labels_Recreation.jsx
+//    Then: AE → Window → labels.jsx
 //
 //  * Keyframe label colors require After Effects v22.6 or later.
 // ============================================================
