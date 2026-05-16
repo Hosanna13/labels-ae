@@ -2,7 +2,8 @@
 
 <h1>LABELS4FREE - Adobe After Effects Plugin</h1>
 
-![Labels](PastedGraphic-4.png)
+![Labels](https://github.com/user-attachments/assets/e215d729-2326-464b-8245-ee359f6e95b1
+)
 
 <div align="left" style="max-width: 600px;">
 
@@ -21,7 +22,8 @@ Labels4Free is not a powerful tool for Adobe After Effects. It is a simple, yet 
 </div>
 
 ## 📸 See It in Action
-![Animation](Sequence01.gif)
+![Animation](
+)
 <p><i>See how easily you can apply this in just a second!</i></p>
 
 # 🫣 Key Features: 
