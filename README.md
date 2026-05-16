@@ -22,8 +22,7 @@ Labels4Free is not a powerful tool for Adobe After Effects. It is a simple, yet 
 </div>
 
 ## 📸 See It in Action
-![Animation](
-)
+![Animation](./assets/Sequence01.gif)
 <p><i>See how easily you can apply this in just a second!</i></p>
 
 # 🫣 Key Features: 
