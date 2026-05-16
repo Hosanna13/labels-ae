@@ -47,7 +47,6 @@ Labels4Free is not a powerful tool for Adobe After Effects. It is a simple, yet 
 
 # ⚙️ Compatibility
 
-<div align="left" style="max-width: 600px;">
 
 <table>
     <tr>
@@ -62,15 +61,16 @@ Labels4Free is not a powerful tool for Adobe After Effects. It is a simple, yet 
     </tr>
 </table>
 
-</div>
-
-### 🧑🏾‍💻 Installation: 
-
-#### 📂 Method 1: Manual Copy
-
+---
 <div align="left" style="max-width: 600px;">
 
+# 🧑🏾‍💻 Installation: 
+
+## 📂 Method 1: Manual Copy
+
 Copy the `labels.jsx` file into the appropriate directory for your operating system:
+</div>
+
 
 <table>
     <tr>
@@ -87,13 +87,12 @@ Copy the `labels.jsx` file into the appropriate directory for your operating sys
     </tr>
 </table>
 
-</div>
 
----
-
-#### 🗂️ Method 2: Inside After Effects
 
 <div align="left" style="max-width: 600px;">
+
+## 🗂️ Method 2: Inside After Effects
+
 
 Alternatively, install it directly inside the application:
 
