@@ -1,32 +1,54 @@
-<center><h1>LABELS4FREE - Adobe After Effects Plugin</h1></center>
+<div align="center">
+
+<h1>LABELS4FREE - Adobe After Effects Plugin</h1>
 
 ![Labels](PastedGraphic-4.png)
 
+<div align="left" style="max-width: 600px;">
 
 I didn't want to spend **$18** on an plugin... so I created my own. **Labels4Free** is an independent, open recreation of a label color panel.
+
+</div>
 
 ---
 
 # 📖 Overview 
-Labels4Free is not a powerful tool for Adobe After Effects. It is a simple, yet effective tool for your work flow. It automates the proccess of chaning the color of selected layers. 
+
+<div align="left" style="max-width: 600px;">
+
+Labels4Free is not a powerful tool for Adobe After Effects. It is a simple, yet effective tool for your work flow. It automates the process of changing the color of selected layers. 
+
+</div>
 
 ## 📸 See It in Action
 ![Animation](Sequence%2001.gif)
-_See how easily you can apply this in just a second!_
+<p><i>See how easily you can apply this in just a second!</i></p>
 
 # 🫣 Key Features: 
+
+<div align="left" style="max-width: 600px;">
+
 - Can apply label colors to keyframes, project items, and more.
 - `[x]` clears label (None)
 - `[s]` selects all layers/items sharing the same label
 - `Dim` only shows labels in use.
 
-22.6+
+</div>
+
 # 😛 How to Use
+
+<div align="left" style="max-width: 600px;">
+
 1. **Apply**: Select your layer(s).
 2. **Set**: Right Click on Swatch 
 3. **View**: The Masterpiece
 
+</div>
+
 # ⚙️ Compatibility
+
+<div align="left" style="max-width: 600px;">
+
 <table>
     <tr>
         <th> After Effects Version</th>
@@ -40,33 +62,45 @@ _See how easily you can apply this in just a second!_
     </tr>
 </table>
 
+</div>
+
 ### 🧑🏾‍💻 Installation: 
 
 #### 📂 Method 1: Manual Copy
+
+<div align="left" style="max-width: 600px;">
+
 Copy the `labels.jsx` file into the appropriate directory for your operating system:
+
 <table>
-<tr>
-    <th> MAC</th>
+    <tr>
+        <th> MAC</th>
     </tr>
     <tr>
-    <td>/Applications/Adobe After Effects <ver>/Scripts/ScriptUI Panels/ </td>
+        <td>/Applications/Adobe After Effects &lt;ver&gt;/Scripts/ScriptUI Panels/ </td>
     </tr>
     <tr>
-    <tr>
-    <th> Windows </th>
+        <th> Windows </th>
     </tr>
     <tr>
-    <td> C:\Program Files\Adobe\Adobe After Effects <ver>\Support Files\Scripts\ScriptUI Panels\</td>
+        <td> C:\Program Files\Adobe\Adobe After Effects &lt;ver&gt;\Support Files\Scripts\ScriptUI Panels\</td>
     </tr>
 </table>
 
+</div>
+
 ---
+
 #### 🗂️ Method 2: Inside After Effects
+
+<div align="left" style="max-width: 600px;">
+
 Alternatively, install it directly inside the application:
 
 1. Go to **File** > **Scripts** > **Install ScriptUI Panel...** and choose 
 2. Restart After Effects.
 3. Open the panel by navigating to **Window** > **labels.jsx**.
 
+</div>
 
-
+</div>
