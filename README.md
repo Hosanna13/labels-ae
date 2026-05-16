@@ -95,11 +95,12 @@ Copy the `labels.jsx` file into the appropriate directory for your operating sys
 ## 🗂️ Method 2: Inside After Effects
 
 
-Alternatively, install it directly inside the application:
+Install it directly inside the application:
 
-1. Go to **File** > **Scripts** > **Install ScriptUI Panel...** and choose 
-2. Restart After Effects.
-3. Open the panel by navigating to **Window** > **labels.jsx**.
+1. Go to **File** > **Scripts** > **Install ScriptUI Panel...**
+2. Select `labels.jsx`
+3. Restart After Effects.
+4. Open the panel by navigating to **Window** > **labels**.
 
 </div>
 
